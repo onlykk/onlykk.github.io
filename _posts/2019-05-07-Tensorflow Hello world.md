@@ -3,7 +3,7 @@ layout:     post
 title:      Tensorflow Hello World
 subtitle:   谷歌机器学习速成课程之Tensorflow Hello World
 date:       2019-05-07
-author:     RainbomSea
+author:     onlykk
 header-img: img/post-web.jpg
 catalog: true
 tags:
@@ -11,7 +11,7 @@ tags:
     - 谷歌机器学习快速课程
 ---
 
-> 仓库代码: [Tensorflow Hello World](https://github.com/RainbomSea/Jupyter-Notebook/blob/master/谷歌机器学习速成课程/Tensorflow%20%20Hello%20World.ipynb)
+> 仓库代码: [Tensorflow Hello World](https://github.com/onlykk/Jupyter-Notebook/blob/master/谷歌机器学习速成课程/Tensorflow%20%20Hello%20World.ipynb)
 
 **学习目标：** 在浏览器中运行 TensorFlow 程序。
 

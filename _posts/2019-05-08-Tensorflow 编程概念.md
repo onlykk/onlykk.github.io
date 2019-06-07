@@ -3,7 +3,7 @@ layout:     post
 title:      Tensorflow 编程概念
 subtitle:   谷歌机器学习速成课程之Tensorflow 编程概念
 date:       2019-05-08
-author:     RainbomSea
+author:     onlykk
 header-img: img/post-web.jpg
 catalog: true
 tags:
@@ -11,7 +11,7 @@ tags:
     - 谷歌机器学习快速课程
 ---
 
-> 仓库代码: [Tensorflow 编程概念](https://github.com/RainbomSea/Jupyter-Notebook/blob/master/%E8%B0%B7%E6%AD%8C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%80%9F%E6%88%90%E8%AF%BE%E7%A8%8B/TensorFlow%20%E7%BC%96%E7%A8%8B%E6%A6%82%E5%BF%B5.ipynb)
+> 仓库代码: [Tensorflow 编程概念](https://github.com/onlykk/Jupyter-Notebook/blob/master/%E8%B0%B7%E6%AD%8C%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%80%9F%E6%88%90%E8%AF%BE%E7%A8%8B/TensorFlow%20%E7%BC%96%E7%A8%8B%E6%A6%82%E5%BF%B5.ipynb)
 
 **学习目标**:
 
