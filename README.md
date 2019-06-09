@@ -4,7 +4,7 @@
 
 ## 网站地址
 
-[onlykk.xyz](http://onlykk.xyz/)
+[onlykk](https://onlykk.github.io/)
 
 ## 示例截图，嘿嘿，还是蛮好看的吧
 
