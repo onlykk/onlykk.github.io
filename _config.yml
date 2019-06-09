@@ -12,7 +12,7 @@ github_repo: "https://github.com/onlykk/onlykk.github.io.git" #code repository |
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "愿一路都有好风景！"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
@@ -20,10 +20,10 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-# facebook_username: 
 github_username: onlykk
-# zhihu_username: onlykk
 csdn_username: ximen_qing
+maimai_username: 白小凯
+linkin_username: 白小凯
 
 
 
@@ -94,13 +94,13 @@ friends: [
         title: "GitHub·onlykk",
         href: "http://onlykk.github.io"
     },{
-        title: "CSDN·onlykk",
-        href: "https://blog.csdn.net/qq_39268193"
+        title: "CSDN·西门庆",
+        href: "https://blog.csdn.net/ximen_qing"
     },{
-        title: "知乎·onlykk",
-        href: "https://www.zhihu.com/people/onlykk"
+        title: "脉脉·白小凯",
+        href: "https://maimai.cn/contact/share/card?u=zvhynwxreali"
     },{
-        title: "GitBook·onlykk",
-        href: "https://legacy.gitbook.com/@onlykk"
+        title: "Linkin·白小凯",
+        href: "https://www.linkedin.com/in/%E5%B0%8F%E5%87%AF-%E7%99%BD-27248111b?trk=profile_share_wechat&from=singlemessage&isappinstalled=0"
     }
 ]
