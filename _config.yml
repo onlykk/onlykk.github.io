@@ -2,9 +2,9 @@
 title: onlykk
 SEOTitle: 白小凯的博客 | onlykk
 header-img: img/top_bg_home.jpg
-email: xxkkbai@163.com
-description: "onlykk的博客"
-keyword: "onlykk, onlykk的博客, rainbom sea, onlykk, Python blog"
+email: xkkbai@163.com
+description: "白小凯的博客"
+keyword: "onlykk, 白小凯的博客, 白小凯, onlykk, Android"
 url: "http://onlykk.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/onlykk/onlykk.github.io.git" #code repository | 代码仓库
